@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/R.jpg
+image: img/port_logo.png
 title: "Port Tracer"
 date: 2025
 published: true
