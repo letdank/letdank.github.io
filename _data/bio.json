@@ -1,31 +1,30 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Demarcus Bell",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/letdank.png",
+    "email": "DemarcusBell@my.unt.edu",
+    "phone": "469-502-1145",
+    "website": "https://letdank.github.io",
+    "summary": "I am a Bachelor’s student, expected to graduate in 2026, with a focus on Cybersecurity and Networking. I am pursuing certifications in Google and CompTIA while honing skills in networking, SQL, Python, JavaScript, and basic IDS/SIEM tools. Passionate about penetration testing and cybersecurity, I am committed to building a strong foundation for a successful career in the field.",
+    "location": { "address": "N/A", "postalCode": "75071", "city": "Mckinney", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "letdank", "url": "https://letdank.github.io" },
+      { "network": "linkedin", "username": "Demarcus Bell", "url": "https://www.linkedin.com/in/demarcus-bell-74ba712b0/" },
+
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cybersecurity" },
+    { "name": "Networking" },
+    { "name": "Pentesting" },
+    { "name": "Ethical Hacking" },
+    { "name": "Information Systems" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "JavaScript", "Linux" "KaliLinux" ]
     },
     {
       "name": "Toolsets/OS",
