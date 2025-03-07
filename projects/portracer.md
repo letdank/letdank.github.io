@@ -1,37 +1,16 @@
+---
 layout: project
 type: project
-image: https://th.bing.com/th/id/R.72e7f873b1fa31f1aade143b9d356205?rik=zCzrfVM%2bBuqtWQ&pid=ImgRaw&r=0
+image: img/micromouse/micromouse-square.jpg
 title: "Port Tracer"
-date: 2024
+date: 2025
 published: true
 labels:
   - Python
-summary: "Port Tracer is a network security tool designed to identify open ports on a target machine. Using custom-built Python scripts, this tool helps assess potential vulnerabilities in a network by scanning specified IP addresses for open ports. It provides real-time results and enables users to quickly pinpoint weaknesses in a system’s security, making it an essential part of any penetration testing toolkit. The project showcases my ability to work with networking protocols, socket programming, and network security principles."
+summary: "I developed Port Tracer, a Python-based port scanner that identifies open ports on a target machine. Using socket for network communication, the tool scans specified IP addresses and port ranges, providing real-time results to assess potential security risks. This project demonstrates my skills in networking, socket programming, and cybersecurity.."
 ---
 
-<img class="img-fluid" src="https://th.bing.com/th/id/R.72e7f873b1fa31f1aade143b9d356205?rik=zCzrfVM%2bBuqtWQ&pid=ImgRaw&r=0">
+Port Tracer is a Python-based port scanner designed to identify open ports on a target machine. Using Python’s socket module, it systematically scans a specified IP address and port range, attempting connections to determine which ports are open. Open ports indicate active services, which can be potential security risks if misconfigured. The scanner provides real-time results, displaying detected ports and their common uses (e.g., SSH, HTTP). This project demonstrates my skills in networking, socket programming, and cybersecurity, offering a practical tool for security assessments and penetration testing.
 
-Port Tracer is a lightweight yet powerful network security tool designed to help identify open ports on a target machine. It enables users to analyze network security by scanning for potential vulnerabilities.
+For the Port Tracer project, I developed a Python-based port scanner that scans a specified IP address and port range to identify open ports. I implemented the use of Python’s socket module to attempt connections on each port, marking them as open if the connection is successful. I ensured the tool provides real-time feedback on the open ports and associated services, helping to assess potential security vulnerabilities. This project highlights my ability to write efficient Python scripts for network scanning, handle socket programming, and understand core cybersecurity concepts.
 
-To give you an idea of how it works, here is an example run:
-
-<hr>
-
-<pre>
-Enter the target IP address:
-> 192.168.1.1
-
-Enter the range of ports to scan (e.g., 20-1000):
-> 20-1000
-
-Scanning in progress...
-Port 22 is open (SSH)
-Port 80 is open (HTTP)
-Port 443 is open (HTTPS)
-
-Scan complete. Total open ports: 3.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/yourusername/port-tracer"><i class="large github icon "></i>yourusername/port-tracer</a>
