@@ -7,11 +7,16 @@
     "phone": "469-502-1145",
     "website": "https://letdank.github.io",
     "summary": "I am a Bachelor’s student, expected to graduate in 2026, with a focus on Cybersecurity and Networking. I am pursuing certifications in Google and CompTIA while honing skills in networking, SQL, Python, JavaScript, and basic IDS/SIEM tools. Passionate about penetration testing and cybersecurity, I am committed to building a strong foundation for a successful career in the field.",
-    "location": { "address": "N/A", "postalCode": "75071", "city": "Mckinney", "countryCode": "USA", "region": "Texas" },
+    "location": { 
+      "address": "N/A", 
+      "postalCode": "75071", 
+      "city": "Mckinney", 
+      "countryCode": "USA", 
+      "region": "Texas" 
+    },
     "profiles": [
       { "network": "github", "username": "letdank", "url": "https://letdank.github.io" },
-      { "network": "linkedin", "username": "Demarcus Bell", "url": "https://www.linkedin.com/in/demarcus-bell-74ba712b0/" },
-
+      { "network": "linkedin", "username": "Demarcus Bell", "url": "https://www.linkedin.com/in/demarcus-bell-74ba712b0/" }
     ]
   },
   "interests": [
@@ -24,7 +29,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "JavaScript", "Linux" "KaliLinux" ]
+      "keywords": [ "Python", "JavaScript", "Linux", "KaliLinux" ]
     },
     {
       "name": "Toolsets/OS",
@@ -38,8 +43,7 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -106,7 +110,7 @@
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "My team won first place in 2015. See my portfolio site for more details."
     }
   ],
   "references": [
