@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Demarcus Bell",
-    "label": "Student",
+    "label": "IT Student",
     "picture": "https://github.com/letdank.png",
     "email": "DemarcusBell@my.unt.edu",
     "phone": "469-502-1145",
     "website": "https://letdank.github.io",
-    "summary": "I am a Bachelor’s student, expected to graduate in 2026, with a focus on Cybersecurity and Networking. I am pursuing certifications in Google and CompTIA while honing skills in networking, SQL, Python, JavaScript, and basic IDS/SIEM tools. Passionate about penetration testing and cybersecurity, I am committed to building a strong foundation for a successful career in the field.",
+    "summary": "I am an Information Technology student at UNT, expected to graduate in 2026, focusing on Cybersecurity and Networking. I am actively pursuing certifications in CompTIA, Google, and Microsoft Azure while strengthening my skills in networking, SQL, Python, JavaScript, and IDS/SIEM tools. I am passionate about penetration testing and cybersecurity, dedicated to building a solid foundation for a successful career in the field.",
     "location": { 
       "address": "N/A", 
       "postalCode": "75071", 
@@ -33,84 +33,58 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad", "Windows" ]
+    },
+    {
+      "name": "Specialized Skills",
+      "keywords": [ "SQL", "Analytical Skills", "Metasploit", "Wireshark", "Data Communication" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of North Texas",
+      "area": "Information Technology (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2023-08-01",
+      "endDate": "2026-05-01",
       "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Freelance IT Troubleshooting",
+      "position": "Freelance IT Technician",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Providing IT troubleshooting services, assisting clients with network issues, software problems, and hardware repairs.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Diagnosed and fixed hardware and software issues for clients.",
+        "Offered network solutions, troubleshooting, and computer repairs remotely and in person.",
+        "Managed a diverse client base with various IT needs."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "University of North Texas Cybersecurity Club",
+      "website": "https://www.unt.edu",
+      "position": "Member",
+      "startDate": "2024-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Participating in cybersecurity awareness and hands-on training.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Assisted with planning and organizing cybersecurity workshops and events.",
+        "Contributed to group discussions and activities related to ethical hacking."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015. See my portfolio site for more details."
+      "title": "Google Cybersecurity Certifications",
+      "date": "2025",
+      "awarder": "Google",
+      "summary": "Completed Google Cybersecurity Certifications in various areas, including Linux & SQL, Detection and Response, Assets Threats and Vulnerabilities, and Cybersecurity Foundations."
     }
   ],
   "references": [
