@@ -1,5 +1,4 @@
-layout: project
-type: project
+
 image: https://th.bing.com/th/id/R.72e7f873b1fa31f1aade143b9d356205?rik=zCzrfVM%2bBuqtWQ&pid=ImgRaw&r=0
 title: "Port Tracer"
 date: 2024-03-07
