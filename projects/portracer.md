@@ -1,7 +1,8 @@
-
+layout: project
+type: project
 image: https://th.bing.com/th/id/R.72e7f873b1fa31f1aade143b9d356205?rik=zCzrfVM%2bBuqtWQ&pid=ImgRaw&r=0
 title: "Port Tracer"
-date: 2024-03-07
+date: 2024
 published: true
 labels:
   - Python
@@ -12,7 +13,7 @@ summary: "Port Tracer is a network security tool designed to identify open ports
 
 Port Tracer is a lightweight yet powerful network security tool designed to help identify open ports on a target machine. It enables users to analyze network security by scanning for potential vulnerabilities.
 
-To give you an idea of how it works, here’s an overview of the process:
+To give you an idea of how it works, here is an example run:
 
 <hr>
 
@@ -32,11 +33,5 @@ Scan complete. Total open ports: 3.
 </pre>
 
 <hr>
-
-### How It Works:
-1. **User Input** – The user specifies the target IP address and the range of ports to scan.  
-2. **Connection Attempts** – The script systematically tries to connect to each port using Python’s `socket` library.  
-3. **Response Analysis** – If a connection is successful, the port is marked as open; otherwise, it is considered closed or filtered.  
-4. **Results Display** – Open ports are displayed in real time, helping users assess security risks.  
 
 Source: <a href="https://github.com/yourusername/port-tracer"><i class="large github icon "></i>yourusername/port-tracer</a>
